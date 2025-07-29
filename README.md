@@ -6,6 +6,18 @@ Products
 Shipping  
 Sales and Profits
 
+🎯 Goal: Prepare Superstore Data for ML
+Let’s assume we want to build a predictive ML model such as:
+
+Predict Profit
+
+Predict Sales
+
+Classify whether an order will be profitable or not (Profit > 0)
+
+
+
+
 | Column Name       | Description                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------------------- |
 | **Row ID**        | Unique identifier for each row.                                                                          |
